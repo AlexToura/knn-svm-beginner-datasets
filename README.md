@@ -5,7 +5,7 @@ This repository contains the code and results of an experiment comparing the per
 
 #Overview
 
-In this experiment, we aimed to evaluate the effectiveness of KNN and SVM algorithms in classification tasks using the Wine and Iris datasets. We implemented both algorithms and trained them on each dataset separately. Then, we measured their accuracy scores to compare their performance.
+In this experiment, we aimed to evaluate the effectiveness of KNN and SVM algorithms in classification tasks using the Wine and Iris datasets. We implemented both algorithms and trained them on each dataset separately. Then, we measured their accuracy scores to compare their performance. After tuning few parameters of each model, we measured their accuracy scores again.
 
 #Datasets
 
